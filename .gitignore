@@ -1,0 +1,7 @@
+*.apk
+!omni-piking-signed.apk
+*.idsig
+aab-analysis/
+**/build/
+node_modules/
+.next/
